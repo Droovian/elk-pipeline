@@ -1,0 +1,633 @@
+2025-10-04 05:52:02.514 INFO  [com.example.MyService] - Server started on port 3000
+2025-10-04 05:52:07.515 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:52:12.515 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:52:17.517 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:52:22.519 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:52:27.521 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:52:32.521 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:52:37.523 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:52:42.524 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:52:47.525 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:52:52.526 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:52:53.405 INFO  [com.example.MyService] - Incoming GET request to /
+2025-10-04 05:52:53.405 INFO  [com.example.MyService] - Handled GET /
+2025-10-04 05:52:57.527 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:02.528 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:53:07.529 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:12.530 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:16.372 INFO  [com.example.MyService] - Incoming GET request to /error
+2025-10-04 05:53:16.372 ERROR  [com.example.MyService] - Database connection failed at com.example.DBConnector
+2025-10-04 05:53:17.532 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:22.533 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:27.534 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:32.535 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:37.536 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:42.538 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:53:47.540 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:52.541 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:53:57.541 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:02.543 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:07.544 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:12.545 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:17.546 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:22.548 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:27.550 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:32.551 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:54:37.551 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:54:42.552 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:47.553 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:52.554 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:54:57.555 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:02.556 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:07.558 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:12.559 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:17.559 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:22.560 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:27.562 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:32.564 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:37.565 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:42.565 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:47.566 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:52.568 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:55:57.569 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:02.570 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:07.572 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:12.573 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:17.573 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:22.574 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:27.575 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:32.576 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:37.577 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:56:42.578 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:47.580 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:56:52.582 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:56:57.583 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:02.584 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:07.585 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:12.586 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:17.588 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:22.589 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:27.590 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:32.591 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:37.592 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:42.593 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:57:47.594 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:52.595 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:57:57.596 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:58:02.597 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:58:07.598 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:58:12.599 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:58:17.601 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:58:22.603 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:58:27.603 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:58:32.604 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:58:37.605 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:58:42.607 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:58:47.608 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:58:52.609 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:58:57.611 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:59:02.613 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:59:07.614 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:59:12.615 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:59:17.616 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:59:22.617 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:59:27.618 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:59:32.619 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:59:37.621 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:59:42.622 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:59:47.623 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 05:59:52.624 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 05:59:57.625 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:02.626 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:07.627 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:00:12.628 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:00:17.629 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:22.631 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:27.632 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:32.632 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:37.633 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:42.634 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:47.635 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:52.637 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:00:57.638 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:02.639 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:07.639 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:01:12.641 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:17.642 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:22.643 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:27.645 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:01:32.647 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:37.649 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:42.649 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:47.649 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:52.650 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:01:57.651 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:02:02.653 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:02:07.654 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:02:12.654 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:02:17.655 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:02:22.656 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:02:27.657 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:02:32.658 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:02:37.659 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:02:42.660 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:02:47.662 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:02:52.663 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:02:57.663 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:02.665 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:03:07.666 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:12.667 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:17.669 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:22.670 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:03:27.670 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:32.672 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:37.673 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:42.674 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:47.667 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:52.662 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:03:57.658 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:04:02.655 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:04:07.653 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:04:12.652 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:04:17.651 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:04:22.651 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:04:27.653 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:04:32.652 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:04:37.653 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:04:42.655 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:04:47.655 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:04:52.656 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:04:57.657 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:05:02.658 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:07.659 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:12.660 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:17.661 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:22.662 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:27.663 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:32.664 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:37.664 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:42.665 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:47.666 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:52.666 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:05:57.667 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:02.668 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:07.669 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:12.670 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:17.671 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:22.673 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:27.675 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:32.675 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:37.676 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:42.678 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:47.680 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:52.682 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:06:57.682 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:02.683 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:07.684 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:12.685 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:17.686 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:22.686 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:07:27.687 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:32.687 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:37.689 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:42.689 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:47.691 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:52.691 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:07:57.693 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:02.694 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:07.695 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:12.696 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:17.697 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:22.699 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:08:27.700 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:32.701 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:37.702 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:42.704 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:47.705 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:52.707 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:08:57.709 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:09:02.710 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:09:07.712 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:09:12.712 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:09:17.712 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:09:22.714 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:09:27.714 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:09:32.715 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:09:37.716 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:09:42.718 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:09:47.719 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:09:52.719 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:09:57.720 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:10:02.721 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:10:07.722 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:10:12.724 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:10:17.725 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:10:22.726 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:10:27.728 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:10:32.728 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:10:37.730 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:10:42.732 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:10:47.733 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:10:52.734 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:10:57.735 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:02.735 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:11:07.736 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:12.738 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:17.739 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:22.741 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:11:27.742 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:32.744 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:37.745 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:42.746 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:47.748 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:52.749 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:11:57.750 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:12:02.752 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:12:07.753 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:12:09.266 INFO  [com.example.MyService] - Incoming GET request to /
+2025-10-04 06:12:09.266 INFO  [com.example.MyService] - Handled GET /
+2025-10-04 06:12:09.277 INFO  [com.example.MyService] - Incoming GET request to /error
+2025-10-04 06:12:09.279 ERROR  [com.example.MyService] - Database connection failed at com.example.DBConnector
+2025-10-04 06:12:12.754 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:12:17.755 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:12:22.756 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:12:27.758 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:12:32.758 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:12:37.760 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:12:42.760 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:12:47.761 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:12:52.763 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:12:57.764 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:13:02.765 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:13:07.766 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:13:12.767 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:13:17.768 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:13:22.769 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:13:27.770 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:13:32.771 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:13:37.772 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:13:42.772 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:13:47.773 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:13:52.774 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:13:57.776 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:02.777 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:07.777 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:12.779 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:17.780 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:22.781 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:27.782 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:14:32.783 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:37.785 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:42.786 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:47.787 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:14:52.788 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:14:57.790 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:02.791 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:07.792 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:12.794 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:17.796 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:22.797 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:27.796 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:32.798 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:15:37.799 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:42.800 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:47.801 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:52.803 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:15:57.803 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:16:02.805 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:16:07.805 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:16:12.806 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:16:17.808 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:16:22.808 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:16:27.809 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:16:32.810 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:16:37.811 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:16:42.812 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:16:47.813 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:16:52.815 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:16:57.815 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:17:02.816 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:17:07.817 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:17:12.818 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:17:17.820 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:17:22.821 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:17:27.821 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:17:32.823 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:17:37.824 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:17:42.825 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:17:47.826 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:17:49.422 INFO  [com.example.MyService] - Incoming GET request to /
+2025-10-04 06:17:49.422 INFO  [com.example.MyService] - Handled GET /
+2025-10-04 06:17:52.827 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:17:53.182 INFO  [com.example.MyService] - Incoming GET request to /error
+2025-10-04 06:17:53.183 ERROR  [com.example.MyService] - Database connection failed at com.example.DBConnector
+2025-10-04 06:17:57.827 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:18:02.827 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:18:07.828 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:18:12.830 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:18:17.830 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:18:22.832 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:18:27.834 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:18:32.835 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:18:37.836 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:18:42.837 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:18:47.838 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:18:52.838 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:18:57.839 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:02.840 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:07.841 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:12.843 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:17.845 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:22.846 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:27.847 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:32.848 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:37.849 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:42.850 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:47.850 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:19:52.851 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:19:57.853 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:20:02.853 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:07.855 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:12.856 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:17.857 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:22.858 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:23.337 INFO  [com.example.MyService] - Incoming GET request to /error
+2025-10-04 06:20:23.338 ERROR  [com.example.MyService] - Database connection failed at com.example.DBConnector
+2025-10-04 06:20:27.215 INFO  [com.example.MyService] - Incoming GET request to /
+2025-10-04 06:20:27.215 INFO  [com.example.MyService] - Handled GET /
+2025-10-04 06:20:27.859 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:32.860 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:37.862 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:42.864 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:20:47.864 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:52.865 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:20:57.867 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:21:02.867 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:21:07.868 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:21:12.869 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:21:17.870 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:21:22.870 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:21:27.871 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:21:32.872 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:21:37.873 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:21:42.873 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:21:47.874 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:21:52.876 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:21:57.878 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:02.878 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:07.880 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:22:12.881 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:22:17.881 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:22.882 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:27.883 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:32.884 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:37.886 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:42.886 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:47.888 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:52.888 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:22:57.890 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:02.891 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:07.892 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:23:12.893 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:17.894 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:22.895 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:27.896 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:32.897 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:37.898 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:23:42.898 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:47.900 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:52.901 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:23:57.901 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:02.902 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:07.904 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:24:12.905 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:17.906 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:24:22.907 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:27.907 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:32.908 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:37.909 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:42.910 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:47.910 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:52.911 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:24:57.913 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:25:02.915 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:25:07.918 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:25:12.921 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:25:17.926 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:25:22.929 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:25:27.932 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:25:32.934 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:25:37.935 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:25:42.936 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:25:47.937 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:25:52.938 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:25:57.940 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:02.941 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:07.942 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:12.944 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:17.945 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:26:22.945 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:27.946 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:32.947 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:37.947 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:42.948 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:47.949 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:52.950 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:26:57.951 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:27:02.952 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:27:07.953 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:27:12.955 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:27:17.956 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:27:22.958 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:27:27.959 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:27:32.960 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:27:37.961 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:27:42.963 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:27:47.963 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:27:52.965 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:27:57.966 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:02.967 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:07.968 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:12.968 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:17.968 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:22.970 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:27.970 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:32.971 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:37.971 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:42.972 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:47.973 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:52.975 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:28:57.976 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:29:02.977 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:29:07.978 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:29:12.980 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:29:17.980 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:29:22.981 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:29:27.982 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:29:32.982 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:29:37.984 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:29:42.985 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:29:47.986 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:29:52.987 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:29:57.988 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:30:02.988 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:30:07.990 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:30:12.991 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:30:17.992 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:30:22.992 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:30:27.994 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:30:32.995 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:30:37.996 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:30:42.997 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:30:47.999 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:30:53.000 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:30:58.001 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:03.001 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:08.003 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:13.004 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:18.005 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:23.006 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:28.007 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:33.008 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:38.010 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:31:43.011 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:48.013 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:53.014 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:31:58.015 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:03.016 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:08.017 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:13.017 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:18.018 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:23.019 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:28.020 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:33.020 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:38.022 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:43.023 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:48.023 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:53.025 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:32:58.026 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:03.026 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:08.028 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:33:13.029 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:18.030 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:23.031 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:28.031 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:33:33.033 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:38.034 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:43.036 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:48.037 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:53.038 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:33:58.039 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:03.039 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:34:08.041 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:13.041 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:18.043 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:23.044 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:28.046 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:33.047 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:38.049 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:43.050 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:34:48.052 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:53.052 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:34:58.053 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:35:03.053 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:35:08.055 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:35:13.055 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:35:18.056 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:35:23.057 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:35:28.058 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:35:33.060 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:35:38.060 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:35:43.062 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:35:48.063 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:35:53.063 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:35:58.065 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:36:03.066 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:36:08.067 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:36:13.068 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:36:18.069 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:36:23.071 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:36:28.072 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:36:33.072 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:36:38.074 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:36:43.074 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:36:48.075 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:36:53.076 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:36:58.077 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:37:03.078 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:37:08.080 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:37:13.080 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:37:18.081 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:37:23.082 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:37:28.083 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:37:33.084 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:37:38.085 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:37:43.086 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:37:48.086 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:37:53.086 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:37:58.087 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:38:03.089 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:08.089 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:13.091 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:18.092 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:23.093 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:28.094 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:33.095 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:38.096 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:43.098 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:48.100 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:53.100 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:38:58.101 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:39:03.103 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:39:08.104 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:39:13.106 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:39:18.107 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:39:23.108 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:39:28.110 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:39:33.111 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:39:38.111 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:39:43.113 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:39:48.114 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:39:53.114 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:39:58.115 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:40:03.116 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:40:08.117 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:40:13.119 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:40:18.118 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:40:23.119 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:40:28.120 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:40:33.122 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:40:38.123 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:40:43.124 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:40:48.125 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:40:53.127 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:40:58.127 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:41:03.129 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:41:08.129 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:41:13.131 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:41:18.132 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:41:23.133 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:41:28.133 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:41:33.135 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:41:38.137 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:41:43.138 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:41:48.139 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:41:53.140 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:41:58.142 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:03.142 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:08.143 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:13.144 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:18.146 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:23.147 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:28.148 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:33.149 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:38.151 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:43.151 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:42:48.152 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:53.154 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:42:58.155 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:43:03.157 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:43:08.157 WARN  [com.example.MyService] - High memory usage detected in com.example.CacheManager
+2025-10-04 06:43:13.158 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:43:18.159 INFO  [com.example.MyService] - Background task executed successfully
+2025-10-04 06:43:23.160 INFO  [com.example.MyService] - Background task executed successfully
