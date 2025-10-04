@@ -1,0 +1,9 @@
+filebeat.inputs:
+  - type: log
+    enabled: true
+    paths:
+      - /logs/*.log          # this is the path inside the container
+
+output.elasticsearch:
+  hosts: ["http://elasticsearch:9200"]
+  pipeline: "parse-java-logs"     # we will create this pipeline
